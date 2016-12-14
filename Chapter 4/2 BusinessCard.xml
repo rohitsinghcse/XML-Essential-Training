@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>	
+<?xml-stylesheet type="text/css" href="2.businessCard.css"?>
+<BusinessCard>
+	<Name>Rohit Singh</Name>
+	<phone type="mobile">9168 581 528 </phone>
+	<phone type="fax"> 8687 168 456 </phone>
+	<email>abc@gma.com</email>
+</BusinessCard>
