@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/css" href="3businessCard.css" ?>
+<BusinessCards>
+	<BusinessCard>
+		<Name>Rohit Singh</Name>
+		<phone type="mobile" primary="primary">3213213 </phone>
+		<phone type="work">1234579</phone>
+		<email>abad@example.com</email>
+	</BusinessCard>
+	<BusinessCard>
+	<Name>Satyam </Name>
+		<phone type="mobile" primary="primary">323413213 </phone>
+		<phone type="work">1234579</phone>
+		<email>abad@example.com</email>
+	</BusinessCard>
+</BusinessCards>
